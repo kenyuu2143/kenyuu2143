@@ -38,6 +38,8 @@ Here are some ideas to get you started:
   </a>-->
 </p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenyuu2143)](https://github.com/kenyuu2143)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenyuu2143&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenyuu2143&show_icons=true&theme=radical)
 
 <a href="https://github.com/kenyuu2143">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kenyuu2143&count_private=true&show_icons=true&theme=dracula" />
