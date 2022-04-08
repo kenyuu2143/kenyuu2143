@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
 <p align="left"> 
   <a href="https://github.com/kenyuu2143">
     <img src="https://komarev.com/ghpvc/?username=kenyuu2143" alt="kenyuu2143" />
@@ -37,24 +38,24 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
   </a>-->
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenyuu2143)](https://github.com/kenyuu2143)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenyuu2143&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenyuu2143&show_icons=true&theme=radical)
 
+
+<div>
 <a href="https://github.com/kenyuu2143">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kenyuu2143&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/kenyuu2143">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyuu2143&layout=compact&theme=dracula" />
 </a>
+  </div>
 
 <div> 
-  href="https://www.youtube.com/channel/UCGr3X-NtDB5GMzu0FBk2joQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <a href="https://www.youtube.com/channel/UCGr3X-NtDB5GMzu0FBk2joQ/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rodorinrin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/kenyuu2143" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:kenyuunakama@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kenyuu-nakama-7ba084140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+
 ![Snake animation](https://github.com/kenyuu2143/kenyuu2143/blob/output/github-contribution-grid-snake.svg)
+</div>
 
