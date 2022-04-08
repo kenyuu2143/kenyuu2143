@@ -40,14 +40,14 @@ Here are some ideas to get you started:
 </p>
 
 
-<div>
+<p align="left"> 
 <a href="https://github.com/kenyuu2143">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kenyuu2143&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/kenyuu2143">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyuu2143&layout=compact&theme=dracula" />
 </a>
-  </div>
+  </p>
 
   
 <div> 
