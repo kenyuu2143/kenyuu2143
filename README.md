@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=kenyuu2143&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div>
 <p align="left"> 
   <a href="https://github.com/kenyuu2143">
