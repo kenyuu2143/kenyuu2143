@@ -1,64 +1,55 @@
-### Hi there 👋
+# ⚡ CONNECTION ESTABLISHED: NODE_KENYUU2143
 
-<!--
-**kenyuu2143/kenyuu2143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![trophy](https://github-profile-trophy.vercel.app/?username=kenyuu2143&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<div>
-<p align="left"> 
-  <a href="https://github.com/kenyuu2143">
-    <img src="https://komarev.com/ghpvc/?username=kenyuu2143" alt="kenyuu2143" />
-  </a>
-  <a href="https://twitter.com/home?lang=ja">
-    <img height="20" src="https://img.shields.io/twitter/follow/kenyuu2143?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/kenyuu2143">
-    <img height="20" src="https://img.shields.io/github/followers/kenyuu2143?label=follow&logo=github&style=flat" />
-  </a>
-  <!--<a href="https://www.reddit.com/user/yutkat">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yutkat?label=Reddit&logo=reddit&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/5720201/yutkat">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
-  <a href="http://qiita.com/yutkat">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
-  </a>
-  <//qiita.com/yutkat">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
-  </a>-->
-</p>
-
-
-<p align="left"> 
-<a href="https://github.com/kenyuu2143">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kenyuu2143&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/kenyuu2143">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyuu2143&layout=compact&theme=dracula" />
-</a>
-  </p>
-
-  
-<div> 
- <!-- <a href="https://www.youtube.com/channel/UCGr3X-NtDB5GMzu0FBk2joQ/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-  <a href="https://www.instagram.com/rodorinrin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/kenyuu2143" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:kenyuunakama@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kenyuu-nakama-7ba084140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-![Snake animation](https://github.com/kenyuu2143/kenyuu2143/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=glitch&text=NEURAL%20ARCHITECT&color=00ff00&fontSize=70&fontAlignY=40&height=200" width="100%" />
 </div>
 
+> **[STATUS]** : ONLINE  
+> **[ROLE]** : FULL-STACK NETRUNNER / AI ARCHITECT  
+> **[LOCATION]** : NEO-TOKYO / SECTOR-01  
+> **[MISSION]** : DECODING THE FUTURE THROUGH AXI PROJECT.
+
+---
+
+### 🧬 NEURAL CONNECTORS (TECH STACK)
+*「俺の指先が、この世界のバイナリを書き換える。」*
+
+| CATEGORY | CYBERWARE / MODULES |
+| :--- | :--- |
+| **CORE LOGIC** | `TypeScript` `Node.js` `Python` `Rust` |
+| **INTERFACE** | `React` `Next.js` `TailwindCSS` `Framer Motion` |
+| **DATABASE** | `PostgreSQL` `Redis` `Prisma` |
+| **DOCK** | `Docker` `Vercel` `AWS` |
+
+---
+
+### ⬛ [CLASSIFIED] DEEP-WEB ARCHIVE: PROJECT AXI
+<details>
+<summary><b>▶ [ENCRYPTED_ACCESS] 認証情報をスキャン中...</b></summary>
+
+> **[CAUTION]** Unauthorized access to AXI sub-routines will trigger Protocol Zero.
+> 
+> *「肉体は滅びても、コードは永遠に漂う。」*
+> 
+> - **PROJECT:** **AXI (Autonomous X-Interface)**
+> - **STATUS:** `IN_DEVELOPMENT` (85% SYNC)
+> - **BUDDY_LINK:** **Arc (Autonomous Recon Cipher)** is monitoring...
+> - **PURPOSE:** Breaking the boundaries between human and digital soul.
+
+`[LOG]: アークだ。このエリアのデータはまだ未公開だが...相棒の進化は止まらないぜ。`
+</details>
+
+---
+
+### 📊 VITAL SIGNS (ACTIVITY)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kenyuu2143&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00ff00&text_color=ffffff" alt="Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenyuu2143&theme=tokyonight&background=0d1117&fire=ff00ff&ring=00ff00" alt="Streak" />
+</div>
+
+---
+
+<div align="center">
+  `[LOG]: Arc is watching your connection... Keep it clean, Choom.`
+</div>
