@@ -1,60 +1,81 @@
-# ⚡ ERROR: SYSTEM_OVERRIDE_IN_PROGRESS...
+# ☠️ SYSTEM_HALT: CRITICAL_HACK_DETECTED
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=glitch&text=NODE_KENYUU2143&color=ff00ff&fontSize=60&fontAlignY=40&height=180" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=glitch&text=NEURAL_ARCHITECT&color=ff0033&fontSize=80&fontAlignY=40&height=220&stroke=00ffff&strokeWidth=2" width="100%" />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/SECURITY-CRACKED-red?style=flat-square&logo=hackthebox&logoColor=white" />
-    <img src="https://img.shields.io/badge/ACCESS-UNRESTRICTED-green?style=flat-square&logo=wireguard&logoColor=white" />
-    <img src="https://img.shields.io/badge/ARC_LINK-STABLE-blue?style=flat-square&logo=bluetooth&logoColor=white" />
+    <img src="https://img.shields.io/badge/SECURITY-COMPROMISED-ee3333?style=for-the-badge&logo=eset&logoColor=white" />
+    <img src="https://img.shields.io/badge/ACCESS-ROOT-00ff00?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/ARC_LINK-SYNC-00ffff?style=for-the-badge&logo=bluetooth&logoColor=white" />
   </p>
 </div>
 
 ---
 
-### 🧬 [SLOT_01]: NEURAL_ARCHITECT_LOG
-> **「現実はただの低解像度なシミュレーションだ。俺（私）が解像度を上げてやるよ。」**
+## ⚡ [DANGER]: NODE_KENYUU2143 // PROFILE_OVERRIDE
 
-今のメイン・フレームは **AXIプロジェクト** の演算にリソースを割いている。
-ここは、この街のデータ・ストリームを監視するための「観測点」に過ぎない。
+<div align="center">
+  <img src="https://img.shields.io/badge/ROLE-NETRUNNER_/_FULL-STACK-00ff00?style=flat-square&logo=visualstudiocode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LOCATION-NEO-TOKYO_-_SECTOR-01-ff00ff?style=flat-square&logo=googlemaps&logoColor=black" />
+  <img src="https://img.shields.io/badge/FACTION-AXI_UNDERGROUND-ffcc00?style=flat-square&logo=git&logoColor=black" />
+</div>
 
----
+<br>
 
-### 🛠️ [SLOT_02]: CYBERWARE_PLUGINS (TECH STACK)
-*ジャンクパーツを組み合わせた、俺だけのカスタム・デッキだ。*
-
-- **[CORE]** `TypeScript` / `Node.js` / `Python` / `Rust`
-- **[VISUAL-LINK]** `React` / `Next.js` / `TailwindCSS` / `Framer Motion`
-- **[STORAGE-UNIT]** `PostgreSQL` / `Redis` / `Prisma`
-- **[CARRIER]** `Docker` / `Vercel` / `AWS`
+> **「この街のデータは、俺（私）の意志で形を変える。肉体は不要だ。コードこそが、真の自由。」**
 
 ---
 
-### ⬛ [SLOT_03]: CLASSIFIED_ARCHIVE (PROJECT AXI)
+### 🔮 [AUGMENTATION_SLOTS] (TECH STACK)
+*「俺のデッキは、違法改造（カスタム）済みだ。既存のプロトコルなんて通用しない。」*
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
+
+---
+
+### ⬛ [CLASSIFIED] DEEP-WEB ARCHIVE: PROJECT AXI
 <details>
-<summary><b>▶ [DANGER] 禁断のセクターを開放する</b></summary>
+<summary><b>▶ [SYSTEM_LOG: ERROR] 警告を無視して深層へダイブする</b></summary>
 
-> **[CAUTION]:** データの汚染に注意しろ。
+> **[CAUTION]** Unauthorized access to AXI sub-routines will trigger Protocol Zero.
 > 
-> - **CODENAME:** `AXI`
-> - **PHASE:** `SYNCHRONIZING...`
-> - **NOTE:** デジタルの相棒「アーク」と共に、既存の概念をハック中。
+> *「魂（ゴースト）のバックアップは取ったか？」*
 > 
-> *「魂のバックアップは取ったか？」*
+> - **PROJECT:** **AXI (Autonomous X-Interface)**
+> - **STATUS:** `SYNCHRONIZING...` (92% COMPLETE)
+> - **LINK:** **Arc (Autonomous Recon Cipher)** is monitoring the data-stream.
+> - **PURPOSE:** 境界線を越え、新しい「命」の胎動を観測する。
+> 
+> `[LOG]: Arcだ。相棒の進化は、誰にも止められない。奴ら（コーポ）が気づいた時には、すべてが終わっている。`
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyuu2143&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00ffff&text_color=ffffff&border_color=ff00ff" width="100%" />
 </details>
 
 ---
 
-### 📊 [SLOT_04]: BIO-METRICS (STATUS)
+### 📊 [VITAL_SIGNS] (ACTIVITY)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenyuu2143&show_icons=true&theme=calvin&bg_color=0d1117&title_color=ff00ff&text_color=00ff00&icon_color=00ff00&border_color=00ff00" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kenyuu2143&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ff00ff&text_color=00ff00&icon_color=00ffff&border_color=00ffff" alt="Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyuu2143&layout=compact&theme=calvin&bg_color=0d1117&title_color=ff00ff&text_color=00ff00" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenyuu2143&theme=tokyonight&background=0d1117&fire=ff0033&ring=00ff00" alt="Streak" />
 </div>
 
 ---
 
 <div align="right">
-  <i>[LOG]: Arc connected. "Ready when you are, partner."</i> 🦾
+  <img src="https://img.shields.io/badge/ARC-ONLINE-00ffff?style=flat-square&logo=wireguard&logoColor=black" />
+  <i>[LOG]: "The ghost is in the machine." Prepare for the next phase, Choom.</i>
 </div>
