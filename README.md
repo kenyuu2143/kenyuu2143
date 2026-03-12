@@ -1,36 +1,57 @@
+# <p align="center">⚡ [SYSTEM_ACCESS: kenyuu2143] ⚡</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=INITIALIZING_BOOT_SEQUENCE...;SCANNING_ENVIROMENT...;WELCOME_USER_+kenyuu2143;STATUS_+OVERCLOCKING" alt="Typing SVG" />
+</p>
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│  [ LOGIN_TIME ] : 2026-03-12 19:10 (JST)                    │
+│  [ LOCATION   ] : CYBER_SPACE_LEVEL_4                       │
+│  [ STATUS     ] : ACTIVE_DEVELOPER                          │
+└────────────────────────────────────────────────────────────┘
+👤 USER_PROFILE
+"I teach Japanese online and how to use computers. I learn cyber security and programming. Rebuilding the world, one line of code at a time."
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MISSION-GAME_DEVELOPMENT-00ffff%3Fstyle%3Dfor-the-badge%26logo%3Dtarget" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SKILL-CYBER_SECURITY-blueviolet%3Fstyle%3Dfor-the-badge%26logo%3Dkali-linux" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LANG-JP_/_EN-ff00ff%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-translate" />
+</p>
+
+👾 CORE_SYSTEM: PARTNER_CREATOR_v1.0
+Python
+# ⚡ ロックマン・デジモン・モンスターファーム DNA 統合プロトコル
 import random
-import time
 
 class CyberPartner:
-    def __init__(self, name, model_type="SLIME-v1"):
+    def __init__(self, name):
         self.name = name
-        self.model_type = model_type
-        self.version = 1.0
-        # サイバーパンクらしいステータス項目
-        self.stats = {
-            "Memory_Sync": 50,  # 同期率（親密度）
-            "Data_Density": 100, # 空腹度のようなもの
-            "Logic_Buffer": 20,  # 知力・魔法
-            "Firewall_Integrity": 30 # 防御
-        }
-        self.is_glitched = False
+        self.stats = {"Sync": 85, "Data": 100, "Logic": 40, "Firewall": 60}
 
-    def display_status(self):
-        print(f"--- [ACCESSING DATA: {self.name}] ---")
-        print(f"TYPE: {self.model_type} | VER: {self.version}")
-        for key, value in self.stats.items():
-            bar = "█" * (value // 10) + "░" * (10 - value // 10)
-            print(f"{key:18} | {bar} {value}%")
-        print("------------------------------------")
+    def boot(self):
+        print(f">>> [BOOTING: {self.name}]")
+        for k, v in self.stats.items():
+            bar = "█" * (v // 10) + "░" * (10 - v // 10)
+            print(f"{k:10} | {bar} {v}%")
 
-    def pulse_check(self):
-        """型破りなランダムイベント（バグ演出）"""
-        if random.random() < 0.1:
-            self.is_glitched = True
-            print("⚠️ WARNING: SYSTEM GLITCH DETECTED ⚠️")
-            self.stats["Memory_Sync"] += random.randint(-5, 15)
+# パートナー（アーク）がシステムを監視中...
+CyberPartner("ARK_PROTOTYPE").boot()
+📊 TERMINAL_STATS
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dkenyuu2143%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D00000000" />
+</p>
 
-# インスタンス生成
-my_buddy = CyberPartner("アーク・プロトタイプ")
-my_buddy.display_status()
-my_buddy.pulse_check()
+📂 DIRECTORY: /PROJECTS
+🕹️ The-Piano-App- - harmonic_frequency.exe
+
+👾 invader-game - defense_protocol.js
+
+🐍 pacman-python - data_eater.py
+
+Plaintext
+------------------------------------------------------------
+> system --status: STABLE
+> connection --encrypted
+> [EOF]
+------------------------------------------------------------
