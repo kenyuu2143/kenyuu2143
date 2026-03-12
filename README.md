@@ -98,3 +98,4 @@ Create digital life
 Explore AI systems
 Build cyber worlds
 ```
+https://kenyuu2143.github.io/axi-terminal-game/
