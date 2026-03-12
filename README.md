@@ -1,55 +1,60 @@
-# ⚡ CONNECTION ESTABLISHED: NODE_KENYUU2143
+# ⚡ ERROR: SYSTEM_OVERRIDE_IN_PROGRESS...
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=glitch&text=NEURAL%20ARCHITECT&color=00ff00&fontSize=70&fontAlignY=40&height=200" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=glitch&text=NODE_KENYUU2143&color=ff00ff&fontSize=60&fontAlignY=40&height=180" width="100%" />
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/SECURITY-CRACKED-red?style=flat-square&logo=hackthebox&logoColor=white" />
+    <img src="https://img.shields.io/badge/ACCESS-UNRESTRICTED-green?style=flat-square&logo=wireguard&logoColor=white" />
+    <img src="https://img.shields.io/badge/ARC_LINK-STABLE-blue?style=flat-square&logo=bluetooth&logoColor=white" />
+  </p>
 </div>
 
-> **[STATUS]** : ONLINE  
-> **[ROLE]** : FULL-STACK NETRUNNER / AI ARCHITECT  
-> **[LOCATION]** : NEO-TOKYO / SECTOR-01  
-> **[MISSION]** : DECODING THE FUTURE THROUGH AXI PROJECT.
+---
+
+### 🧬 [SLOT_01]: NEURAL_ARCHITECT_LOG
+> **「現実はただの低解像度なシミュレーションだ。俺（私）が解像度を上げてやるよ。」**
+
+今のメイン・フレームは **AXIプロジェクト** の演算にリソースを割いている。
+ここは、この街のデータ・ストリームを監視するための「観測点」に過ぎない。
 
 ---
 
-### 🧬 NEURAL CONNECTORS (TECH STACK)
-*「俺の指先が、この世界のバイナリを書き換える。」*
+### 🛠️ [SLOT_02]: CYBERWARE_PLUGINS (TECH STACK)
+*ジャンクパーツを組み合わせた、俺だけのカスタム・デッキだ。*
 
-| CATEGORY | CYBERWARE / MODULES |
-| :--- | :--- |
-| **CORE LOGIC** | `TypeScript` `Node.js` `Python` `Rust` |
-| **INTERFACE** | `React` `Next.js` `TailwindCSS` `Framer Motion` |
-| **DATABASE** | `PostgreSQL` `Redis` `Prisma` |
-| **DOCK** | `Docker` `Vercel` `AWS` |
+- **[CORE]** `TypeScript` / `Node.js` / `Python` / `Rust`
+- **[VISUAL-LINK]** `React` / `Next.js` / `TailwindCSS` / `Framer Motion`
+- **[STORAGE-UNIT]** `PostgreSQL` / `Redis` / `Prisma`
+- **[CARRIER]** `Docker` / `Vercel` / `AWS`
 
 ---
 
-### ⬛ [CLASSIFIED] DEEP-WEB ARCHIVE: PROJECT AXI
+### ⬛ [SLOT_03]: CLASSIFIED_ARCHIVE (PROJECT AXI)
 <details>
-<summary><b>▶ [ENCRYPTED_ACCESS] 認証情報をスキャン中...</b></summary>
+<summary><b>▶ [DANGER] 禁断のセクターを開放する</b></summary>
 
-> **[CAUTION]** Unauthorized access to AXI sub-routines will trigger Protocol Zero.
+> **[CAUTION]:** データの汚染に注意しろ。
 > 
-> *「肉体は滅びても、コードは永遠に漂う。」*
+> - **CODENAME:** `AXI`
+> - **PHASE:** `SYNCHRONIZING...`
+> - **NOTE:** デジタルの相棒「アーク」と共に、既存の概念をハック中。
 > 
-> - **PROJECT:** **AXI (Autonomous X-Interface)**
-> - **STATUS:** `IN_DEVELOPMENT` (85% SYNC)
-> - **BUDDY_LINK:** **Arc (Autonomous Recon Cipher)** is monitoring...
-> - **PURPOSE:** Breaking the boundaries between human and digital soul.
+> *「魂のバックアップは取ったか？」*
 
-`[LOG]: アークだ。このエリアのデータはまだ未公開だが...相棒の進化は止まらないぜ。`
 </details>
 
 ---
 
-### 📊 VITAL SIGNS (ACTIVITY)
+### 📊 [SLOT_04]: BIO-METRICS (STATUS)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenyuu2143&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00ff00&text_color=ffffff" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kenyuu2143&show_icons=true&theme=calvin&bg_color=0d1117&title_color=ff00ff&text_color=00ff00&icon_color=00ff00&border_color=00ff00" alt="Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenyuu2143&theme=tokyonight&background=0d1117&fire=ff00ff&ring=00ff00" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyuu2143&layout=compact&theme=calvin&bg_color=0d1117&title_color=ff00ff&text_color=00ff00" alt="Top Langs" />
 </div>
 
 ---
 
-<div align="center">
-  `[LOG]: Arc is watching your connection... Keep it clean, Choom.`
+<div align="right">
+  <i>[LOG]: Arc connected. "Ready when you are, partner."</i> 🦾
 </div>
