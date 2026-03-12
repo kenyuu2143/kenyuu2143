@@ -88,6 +88,8 @@ CYBER SECURITY
 
 ## 🌌 WORLD DATA
 
+https://kenyuu2143.github.io/axi-terminal-game/
+
 ```
 YEAR : 2099
 CITY : Neo Tokyo
